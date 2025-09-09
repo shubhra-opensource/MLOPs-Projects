@@ -20,7 +20,7 @@ This repo dives deep into the world of MLOps, exploring advanced techniques and 
 
 ---
 
-## 📕 Course Structure
+## 📕 Repo Structure
 
 In this repo I have written code to:
 - Build Docker containers  
