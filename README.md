@@ -55,6 +55,6 @@ In this repo I have written code to:
 | 15 | Kubernetes - III | Deploying FastAPI + PyTorch models on AWS EKS. |
 | 16 | Kubernetes - IV | Using EBS, ISTIO, and KServe to deploy PyTorch models. |
 | 17 | Canary Deployment & Monitoring | Canary Rollouts + Monitoring with Prometheus & Grafana. |
-| 18 | Capstone Project | End-to-end MLOps pipeline deployment project. |
+| 18 | Final Project | End-to-end MLOps pipeline deployment project. |
 
 ---
