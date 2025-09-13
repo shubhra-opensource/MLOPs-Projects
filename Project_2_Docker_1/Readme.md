@@ -63,13 +63,6 @@ Where `-it` means *interactive terminal*.
 
 ***
 
-## Docker from Scratch
-
-Learn what containers *really are*:  
-[containers-from-scratch repository](https://github.com/satyajitghana/containers-from-scratch)
-
-***
-
 ## Docker Architecture Overview
 
 Docker uses a **client-server architecture**:
@@ -94,20 +87,6 @@ See the [Docker CLI reference](https://docs.docker.com/engine/reference/commandl
 
 ***
 
-## Sample Project: Cat GIF WebApp
-
-Try it out:
-
-```bash
-git clone https://github.com/satyajitghana/catgif-docker
-cd catgif-docker
-docker build --tag catgif:latest .
-docker run -p 80:5000 catgif:latest
-```
-
-Visit [http://localhost:5000](http://localhost:5000) in your browser.
-
-***
 
 ## Understanding the Dockerfile
 
